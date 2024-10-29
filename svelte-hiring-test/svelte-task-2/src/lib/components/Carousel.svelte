@@ -19,9 +19,7 @@
 
   const goNext = (i: number) => {
     index = i;
-    
-    console.log(index, "index")
-  };
+      };
 </script>
 
 <div class="carousel">
